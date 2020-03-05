@@ -1,5 +1,5 @@
 import { TacoHtml } from "./Taco.js"
-import { useTacos } from "./tacoDataProvider.js"
+import { useTacos } from "./TacoDataProvider.js"
 
 const contentTarget = document.querySelector(".tacoContainer")
 
